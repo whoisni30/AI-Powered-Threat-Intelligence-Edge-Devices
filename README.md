@@ -1,4 +1,16 @@
-![Project Banner](banner.png)
+
+<h1 align="center">AI-Powered Threat Intelligence for Edge Devices</h1>
+
+<p align="center"><b>Python • Machine Learning • Network Security • Threat Intelligence • Edge Computing</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Isolation%20Forest-green" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-Threat%20Detection-red" />
+  <img src="https://img.shields.io/badge/Status-Research%20Project-purple" />
+</p>
+
+---
 
 # AI-Powered-Threat-Intelligence-Edge-Devices
 AI-powered edge security framework using Python and machine learning for anomaly detection, threat intelligence, and real-time cyber threat monitoring.
