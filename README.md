@@ -13,7 +13,8 @@
 ---
 
 # AI-Powered-Threat-Intelligence-Edge-Devices
-AI-powered edge security framework using Python and machine learning for anomaly detection, threat intelligence, and real-time cyber threat monitoring.
+AI-powered threat intelligence framework for edge devices using Python and machine learning to detect anomalous network activity, classify cyber threats, and generate real-time security alerts.
+
 
 # AI-Powered Threat Intelligence for Edge Devices Using Python
 
